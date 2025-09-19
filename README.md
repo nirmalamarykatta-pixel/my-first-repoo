@@ -1,2 +1,3 @@
-# my-first-repoo
-Learning GitHub with DevOps
+a=5
+b=15
+print(a+b)
